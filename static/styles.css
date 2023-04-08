@@ -1,0 +1,50 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  /* Header and navigation */
+  header {
+    background-color: #333;
+    padding: 1rem;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav ul li {
+    margin-right: 1rem;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  /* Main content */
+  main {
+    padding: 2rem;
+  }
+  
+  h1, h2 {
+    color: #444;
+  }
+  
+  a {
+    color: #0077cc;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #333;
+    padding: 1rem;
+    text-align: center;
+    color: #fff;
+  }
